@@ -7,4 +7,4 @@ https://dev.to/krowemoh/a-vue3-tutorial-01-using-vue-without-a-build-step-2kkm
 
 My site:
 
-https://nivethan.dev/devlog/a-vue3-tutorial---01-using-vue-without-a-build-step.html
+https://nivethan.dev/devlog/using-vue-without-a-build-step.html
